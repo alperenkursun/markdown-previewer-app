@@ -4,8 +4,8 @@ HTML - CSS - JS - React - Redux App
 
 ---
 
-<!-- [See The Project]()
+[See The Project](http://akmarkdownpreviewer.surge.sh/)
 
-![mpaimg]()
+![mpaimg](mpaimg.webp)
 
-[Patika](https://academy.patika.dev/tr/@alpk) -->
+[Patika](https://academy.patika.dev/tr/@alpk)
